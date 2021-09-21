@@ -1,4 +1,9 @@
-# For chat demo
+## Install
+composer require workerman/phpsocket.io
+
+## For chat demo
+```http://0.0.0.0:2022``` for web access
+
 ## start
 ```php start.php start``` for debug mode
 
@@ -16,5 +21,3 @@
 ## reload
 ``` php start.php reload```
 
-## connections
-``` php start.php connections```
